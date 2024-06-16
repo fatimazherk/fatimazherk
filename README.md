@@ -35,7 +35,7 @@
 
 ###
 
-<img align="right" height="160" src="https://img.youtube.com/vi/SxedxKwVu_Q/0.jpg"  />
+<img align="right" height="160" src="https://img.youtube.com/vi/SxedxKwVu_Q/0.jpg" />
 
 ###
 
