@@ -34,9 +34,25 @@
 
 <p align="left"></p>
 
+
+<div style="text-align: right;">
+  <picture>
+    <!-- Source for modern browsers that support .webp format -->
+    <source srcset="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWw5NWpnNmJoejNmcThsaWQydGE0d2xlNGFoYmR0cHA1M3hnOGFwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gx54W1mSpeYMg/giphy.webp" type="image/webp">
+    <!-- Fallback source for browsers that do not support .webp format -->
+    <source srcset="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWw5NWpnNmJoejNmcThsaWQydGE0d2xlNGFoYmR0cHA1M3hnOGFwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gx54W1mSpeYMg/giphy.gif" type="image/gif">
+    <!-- Default img tag in case none of the sources are supported -->
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWw5NWpnNmJoejNmcThsaWQydGE0d2xlNGFoYmR0cHA1M3hnOGFwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gx54W1mSpeYMg/giphy.gif" height="150" alt="Animated GIF">
+  </picture>
+</div>
+
 ###
 
-<img align="right" height="150" src="https://img.youtube.com/vi/SxedxKwVu_Q/0.jpg"  />
+
+###
+
+
+
 
 ###
 
