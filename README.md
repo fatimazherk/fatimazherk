@@ -1,4 +1,6 @@
-<h2 align="left">My name is Fatimaa Khan and I'm an aspiring WebDev + GameDev from Karachi, Pakistan.</h2>
+<h1 align="center">Hi, I'm Fatimaa Khan</h1>
+<h3 align="center">A passionate WebDev+GameDev from Pakistan</h3>
+
 
 ###
 
@@ -20,9 +22,8 @@
 
 ###
 
-
-###
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 <div align="left">
   <a href="https://www.instagram.com/fatimazherk/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -37,5 +38,6 @@
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
 </div>
+</p>
 
 ###
