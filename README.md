@@ -11,5 +11,17 @@
     <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
     <br><br><br>
     
-    [![](https://img.shields.io/badge/linkedin-0a66c2)](http://linkedin.com/in/fatimazherk)
+<div align="center">
+  <a href="instagram.com/fatimazherk" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=F4C2C2&logoColor=black&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/fatimazherk/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=F4C2C2&logoColor=black&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="youtube.com/fatimazherk" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=F4C2C2&logoColor=black&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  </a>
+</div>
+
+###
 </div>
