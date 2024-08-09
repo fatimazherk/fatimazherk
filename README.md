@@ -5,7 +5,7 @@
     <pre>
         💻 Game Development • Web Development
         📖 Computer Science And Information Technology
-        🎮 Music • Games • Anime • Code • Art • Photography
+        🎮 Music • Anime • Code • Art • Photography
     </pre>
     <br><br>
     <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
